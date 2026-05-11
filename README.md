@@ -26,6 +26,3 @@ Key Focus: API Design and System Scalability.
 A Virtual Reality application for the Meta Quest 3 providing real-time AI feedback.  
 Tech: Unity, C#, Firebase.  
 Key Focus: VR Development and Full-Stack Architecture.
-
----
-[![](https://komarev.com/ghpvc/?username=markpbrown&icon=0&color=0)](https://visitcount.itsvg.in)

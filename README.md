@@ -3,6 +3,7 @@ I am a Software Development Graduate with a passion for building robust applicat
 
 # 🎓 Education
 Bachelor Of Information Technology (Cum Laude)
+
 Belgium Campus iTversity (2023 - 2025)
 
 # 💻 Tech Stack:

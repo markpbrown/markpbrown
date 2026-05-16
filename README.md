@@ -19,14 +19,14 @@ _Belgium Campus iTversity (2023 - 2025)_
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-# 🛠️ Project Highlights\
-**Multi-Tenant AI Chatbot Platform**\
-A scalable solution for small businesses using a Hybrid RAG Architecture.\
-Tech: JavaScript, Node.js, JSON.\
-Key Focus: API Design and System Scalability.\
+# 🛠️ Project Highlights  
+**Multi-Tenant AI Chatbot Platform**  
+A scalable solution for small businesses using a Hybrid RAG Architecture.  
+Tech: JavaScript, Node.js, JSON.  
+Key Focus: API Design and System Scalability.
 
-**AI-Enhanced VR Interview Simulator**\
-_(University Capstone Group Project)_\
-A Virtual Reality application for the Meta Quest 3 providing real-time AI feedback.\  
-Tech: Unity, C#, Firebase.\
-Key Focus: VR Development and Full-Stack Architecture.\
+**AI-Enhanced VR Interview Simulator**  
+_(University Capstone Group Project)_  
+A Virtual Reality application for the Meta Quest 3 providing real-time AI feedback.  
+Tech: Unity, C#, Firebase.  
+Key Focus: VR Development and Full-Stack Architecture.
